@@ -1,0 +1,53 @@
+body{
+   margin: 0;
+   height: 100%;
+}
+header{
+    background-color: #d7a4d2;
+    color: white;
+    margin-top: -20px;
+    
+}
+header h2{
+    text-align: center;
+    padding: 20px;
+    font-family:Kaisei Opti;
+}
+header h3{
+    text-align: center;
+    padding-bottom: 20px;
+    font-family:Kaisei Opti;
+}
+
+section div  h3{
+    text-align: center;
+    font-weight: 100;
+
+}
+section h3{
+    text-align: center;
+    padding-bottom: 60px;
+    font-weight: 100;
+}
+#contato{
+    box-shadow: 4px 4px 5px  rgb(235, 144, 220,0.6) ;
+    padding: 30px;
+    margin: 80px;
+}
+footer{
+    background-color: #d7a4d2; ;
+    color: white;
+    
+    text-align: center;
+    padding: 50px;
+  }
+  footer h3{
+    font-family:Kaisei Opti;
+    font-size: 20px;
+  }
+  footer img{
+    height: 20px;
+    width: 20px;
+  }
+  
+  

@@ -1,0 +1,132 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+  }
+  header {
+    position: relative;
+  }
+  nav ul {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+    display: flex;
+    justify-content: center;
+    background: #d7a4d2;
+  
+  }
+  
+  nav ul li {
+    margin: 0 10px;
+  }
+  
+  nav ul li a {
+    color: white;
+    text-decoration: none;
+    padding: 14px 20px;
+    display: block;
+  }
+  
+  nav ul li a:hover {
+    background: rgb(214, 122, 176);
+  }
+
+  .img1{
+    background-image: url(thumb-os-delineadores-favoritos.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    padding: 200px;
+    color: rgb(0, 0, 0);
+    text-align: center;
+    font-family:Kaisei Opti;
+    
+  }
+  .img2{
+    background-image: url(batomFundo3.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    padding: 200px;
+    color: rgb(248, 240, 240);
+    text-align: center;
+    font-family:Kaisei Opti;
+    
+  }
+  .img3{
+    background-image: url(make_artisitca2.webp);
+    background-repeat: no-repeat;
+    background-size: cover;
+    padding: 200px;
+    color: rgb(0, 0, 0);
+    text-align: center;
+    font-family:Kaisei Opti;
+    
+  }
+  .pricing-table {
+    text-align: center;
+  }
+  
+  .pricing-table h1 {
+    margin-bottom: 20px;
+  }
+  
+  .pricing-card {
+    background-color: #fff;
+    padding: 20px;
+    margin: 10px;
+    border-radius: 8px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    display: inline-block;
+    width: 250px;
+  }
+  
+  .pricing-card h2 {
+    margin-top: 0;
+  }
+  
+  .pricing-card .price {
+    font-size: 24px;
+    color: #333;
+    margin: 20px 0;
+  }
+  
+  .pricing-card ul {
+    list-style: none;
+    padding: 0;
+  }
+  
+  .pricing-card ul li {
+    margin: 10px 0;
+  }
+  
+  .pricing-card .btn {
+    display: inline-block;
+    padding: 10px 20px;
+    color: #fff;
+    background-color:rgb(235, 144, 220);
+    text-decoration: none;
+    border-radius: 5px;
+    transition: background-color 0.3s;
+  }
+  
+  .pricing-card .btn:hover {
+    background-color:rgb(214, 122, 176, 0.5);
+  }
+  
+  
+  footer{
+    background-color: #d7a4d2;
+    color: white;
+    margin-bottom: -10px;
+    text-align: center;
+    padding: 50px;
+  
+  }
+  footer h3{
+    font-family:Kaisei Opti;
+    font-size: 20px;
+  }
+  footer img{
+    height: 20px;
+    width: 20px;
+  }  
